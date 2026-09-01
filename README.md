@@ -1,0 +1,33 @@
+Pooja Patel  
+
+To run 
+```
+cmake .
+make
+./A3
+```
+
+## To rotate camera
+- up, down, left, right arrow keys
+
+## To move camera
+- forward 'W' key
+- back 'S' key
+- left 'A' key
+- right 'D' key
+- up 'E' key
+- down 'Q' key
+
+### Used
+- Sky Box
+- Normal Mapping (On Building)
+- Toon Shading (On Building and the Sun)
+- Curves and Splines (B-Spline on the Sun)
+- Billboarding and Particles (on the Snowflakes)
+
+### Video Demo: https://youtu.be/oDgga-d-1Ls
+
+
+
+This work is entirely my own work. I did not collaborate with any other person, or any LLM's to produce any portion of code. 
+I acknowledge the fact that I will receive a 0 if my TA or instructor finds the work is not entirely my own production. 
