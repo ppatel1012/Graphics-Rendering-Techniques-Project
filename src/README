@@ -1,0 +1,27 @@
+Pooja Patel  
+1225060  
+Assignment 3
+CIS*4800
+
+To run 
+```
+cmake .
+make
+./A3
+```
+
+To rotate camera
+- up, down, left, right arrow keys
+
+To move camera
+- forward 'W' key
+- back 'S' key
+- left 'A' key
+- right 'D' key
+- up 'E' key
+- down 'Q' key
+
+
+
+This work is entirely my own work. I did not collaborate with any other person, or any LLM's to produce any portion of code. 
+I acknowledge the fact that I will receive a 0 if my TA or instructor finds the work is not entirely my own production. 

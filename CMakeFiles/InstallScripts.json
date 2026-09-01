@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/pooja/Downloads/1225060A3/cmake_install.cmake",
+		"/Users/pooja/Downloads/1225060A3/libs/glfw/cmake_install.cmake",
+		"/Users/pooja/Downloads/1225060A3/libs/glfw/src/cmake_install.cmake",
+		"/Users/pooja/Downloads/1225060A3/libs/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
